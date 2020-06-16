@@ -1,0 +1,10 @@
+not_recom
+spec_prior
+priority
+priority
+very_recom
+priority
+not_recom
+spec_prior
+priority
+very_recom
